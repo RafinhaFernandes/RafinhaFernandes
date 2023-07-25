@@ -8,7 +8,7 @@ Minha motivação em me tornar um programador Full Stack é a possibilidade de c
 
 ## 💫 Sobre Mim
 <p>🔭 Atualmente estou fazendo o jogo Memorize</p>
-<p>I regularly write articles on <a href="https://github.com/RafinhaFernandes?tab=projects">RafinhaFernandes</a></p>
+
 
 ## 💻 Minhas Skills
 <p>
