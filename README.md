@@ -1,9 +1,37 @@
-- 👋 "Olá, eu sou Rafael Fernandes, um estudante de programação que acredita que a vida é como um código-fonte: cheia de bugs, loops infinitos e muitas chaves perdidas. Sempre fui apaixonado por resolver quebra-cabeças, mas, em vez de palavras cruzadas, eu decidi desafiar minha mente com linhas de código enigmáticas.(Dor de cabeça aguda)
-- 👀 Estou interessado em Games,Front end e back end
-- 🌱 No momento, estou aprendendo continuamente, expandindo meu repertório de habilidades e explorando novas tecnologias. Sempre há algo novo para descobrir e dominar no vasto universo da programação... 
-- 📫 Quer entrar em contato comigo? Você pode me encontrar através do e-mail rafinhanascimento640@gmail.com. Ficarei feliz em receber mensagens relacionadas a colaborações, oportunidades ou apenas para bater um papo sobre programação.
+# Hi there 👋, My name is Rafael Fernandes
 
-<!---
-RafinhaFernandes/RafinhaFernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img width="100%" src="https://uploaddeimagens.com.br/imagens/P-OG4_Q" alt="my banner">
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e tenho o objetivo de me tornar um programador o mais breve possível, visando entrar no mercado de trabalho. Enquanto estudo, busco tornar a programação uma fonte de diversão e aprendizado, utilizando minha criatividade para criar páginas web, jogos, landing pages, entre outros projetos.
+
+Ao longo do curso, venho me dedicando ao estudo de diversas linguagens de programação, como JavaScript, Python, Java, C# e outras. Aprender sobre o desenvolvimento front-end e back-end tem sido uma experiência gratificante e exaustivo.
+
+Minha motivação em me tornar um programador Full Stack é a possibilidade de criar soluções completas e versáteis, capazes de atender a diferentes demandas e necessidades.
+
+## 💫 Liitle Bit More About Me
+<p>🔭 I'm currently working on Memorize</p>
+<p>I regularly write articles on <a href="https://github.com/RafinhaFernandes?tab=projects">RafinhaFernandes</a></p>
+
+## 💻 Skills
+<p>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+</p>
+
+## 👥 Connect With Me
+<p>
+</p>
+
+## 🌟 Github Badges
+<p>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=">
+</p>
+
+## 📊 Github Status
