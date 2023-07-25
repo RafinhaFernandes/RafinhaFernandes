@@ -21,15 +21,6 @@ Minha motivação em me tornar um programador Full Stack é a possibilidade de c
 
 ## 👥 Entre em Contato
 <p>
+  Email:rafinhanascimento640@gmail.com
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=">
-</p>
-
-## 📊 Github Status
