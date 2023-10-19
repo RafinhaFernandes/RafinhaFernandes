@@ -2,7 +2,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e tenho o objetivo de me tornar um programador o mais breve possível, visando entrar no mercado de trabalho. Enquanto estudo, busco tornar a programação uma fonte de diversão e aprendizado, utilizando minha criatividade para criar páginas web, jogos, landing pages, entre outros projetos.
 
-Ao longo do curso, venho me dedicando ao estudo de diversas linguagens de programação, como JavaScript, Python, Java, C# e outras. Aprender sobre o desenvolvimento front-end e back-end tem sido uma experiência gratificante e exaustivo.
+Ao longo do curso, venho me dedicando ao estudo de linguagens de programação, como JavaScript e Python.Aprender sobre o desenvolvimento front-end e back-end tem sido uma experiência gratificante e exaustiva.
 
 Minha motivação em me tornar um programador Full Stack é a possibilidade de criar soluções completas e versáteis, capazes de atender a diferentes demandas e necessidades.
 
